@@ -1,0 +1,13 @@
+ADDITIONAL RESOURCES
+
+Pyhton documentation
+
+Re module: https://docs.python.org/2/library/re.html
+ElementTree module: https://docs.python.org/2/library/xml.etree.elementtree.html
+
+
+Mongo DB
+
+Query and projection operators: http://docs.mongodb.org/manual/reference/operator/query/
+Aggregation operators: http://docs.mongodb.org/manual/core/single-purpose-aggregation/
+Install and run Mongo DB on windows: http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/

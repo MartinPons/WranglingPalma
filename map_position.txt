@@ -1,0 +1,8 @@
+Area: Palma de Mallorca and surroundings. Balearic Islands. Spain
+http://www.openstreetmap.org/export#map=11/39.5369/2.6182
+
+The file contains data about Palma de Mallorca, the capital of the Balearic Islands, and some towns surrounding the city.
+https://en.wikipedia.org/wiki/Palma,_Majorca
+
+I picked the area of Palma de Mallorca and its surroundings because is the city where I was born and where I live. 
+I am just corious of some data that I might find.
